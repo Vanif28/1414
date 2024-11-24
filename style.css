@@ -1,3 +1,23 @@
+
+body {
+
+    background-color: rgba(33, 3, 3, 0.822);
+    color: rgb(168, 151, 151);
+}
+
+h1 {
+    background-color: rgb(55, 39, 39);
+    color: rgb(164, 138, 138);
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+img {
+    width: 180px;
+}
 h2 {
     background-color: rgb(53, 53, 53);
     color: rgb(205, 140, 163);
